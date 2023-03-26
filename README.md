@@ -1,1 +1,1 @@
-# rabbitmq_example_impl
+RabbitMQ example implementation using Java 17, springboot and AMQP. It is NOT built using microservices because it is demonstration example just to test RabbitMQ possibilities. This implementation covers rabbit producer, consumer, specific queues and topic exchange with additional REST controller to test data sending.
